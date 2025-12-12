@@ -1,4 +1,4 @@
-# CM2604-Churn-Classifier
+
 # CM2604 – Churn Classifier
 
 This project was developed as part of the **CM2604 Machine Learning** module.  
